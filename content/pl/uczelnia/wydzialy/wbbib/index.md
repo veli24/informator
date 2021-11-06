@@ -1,7 +1,7 @@
 ---
 title: Wydział Biochemii, Biofizyki i Biotechnologii
 order: 140
-stub: true
+stub: false
 ---
 ### TODO
 
